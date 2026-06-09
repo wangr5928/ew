@@ -448,6 +448,14 @@
         "priority": 56
     },
     {
+        "id": "tianyays",
+        "name": "天涯影视",
+        "baseUrl": "https://tyyszy.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 57
+    },
+    {
         "id": "leba",
         "name": "乐播资源",
         "baseUrl": "https://lbapi9.com/api.php/provide/vod",
