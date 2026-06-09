@@ -584,6 +584,14 @@
         "priority": 17
     },
     {
+        "id": "iqiyi",
+        "name": "爱奇艺",
+        "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 57
+    },
+    {
         "id": "fanhao",
         "name": "番号资源",
         "baseUrl": "http://fhapi9.com/api.php/provide/vod",
