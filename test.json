@@ -456,6 +456,14 @@
         "priority": 57
     },
     {
+        "id": "maiyan",
+        "name": "猫眼资源",
+        "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 58
+    },
+    {
         "id": "leba",
         "name": "乐播资源",
         "baseUrl": "https://lbapi9.com/api.php/provide/vod",
