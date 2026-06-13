@@ -544,6 +544,102 @@
         "priority": 69
     },
     {
+        "id": "hemadj",
+        "name": "河马短剧专线",
+        "baseUrl": "https://hemadj.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 70
+    },
+    {
+        "id": "shandian_dj",
+        "name": "闪电短剧资源",
+        "baseUrl": "https://sdduanju.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 71
+    },
+    {
+        "id": "hongniu_dj",
+        "name": "红牛短剧专线",
+        "baseUrl": "https://www.hongniuapi.com/api.php/provide/vod/from/hnm3u8/type",
+        "group": "normal",
+        "enabled": true,
+        "priority": 72
+    },
+    {
+        "id": "tiantian_dj",
+        "name": "天天短剧源",
+        "baseUrl": "https://tiantian.ttdjzy.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 73
+    },
+    {
+        "id": "tiantian_dj",
+        "name": "星空短剧",
+        "baseUrl": "https://xkdjzy.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 74
+    },
+    {
+        "id": "kuaikan_dj",
+        "name": "快看短剧",
+        "baseUrl": "https://kuaikanzy.net/api.php/provide/vod/from/kkm3u8/type/微短剧",
+        "group": "normal",
+        "enabled": true,
+        "priority": 75
+    },
+    {
+        "id": "liangzi_dj",
+        "name": "量子短剧",
+        "baseUrl": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/type/短剧",
+        "group": "normal",
+        "enabled": true,
+        "priority": 76
+    },
+    {
+        "id": "shouma_dj",
+        "name": "首码短剧",
+        "baseUrl": "https://shoumazy.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 77
+    },
+    {
+        "id": "baimang_dj",
+        "name": "百忙短剧源",
+        "baseUrl": "https://baimangzy.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 78
+    },
+    {
+        "id": "yihaoxian_dj",
+        "name": "一号线短剧",
+        "baseUrl": "https://api.1line.me/api.php/provide/vod/action/duanju",
+        "group": "normal",
+        "enabled": true,
+        "priority": 79
+    },
+    {
+        "id": "bilibili",
+        "name": "哔哩动漫源",
+        "baseUrl": "https://api.bilibilazy.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 80
+    },
+    {
+        "id": "gangtaiju",
+        "name": "港台剧专线",
+        "baseUrl": "https://gtjzy.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 81
+    },    
+    {
         "id": "leba",
         "name": "乐播资源",
         "baseUrl": "https://lbapi9.com/api.php/provide/vod",
