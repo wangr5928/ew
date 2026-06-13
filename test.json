@@ -656,11 +656,83 @@
         "priority": 21
     },
     {
+        "id": "AIvin",
+        "name": "AIvin",
+        "baseUrl": "http://lbapiby.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 22
+    },
+    {
+        "id": "souavZY",
+        "name": "souavZY",
+        "baseUrl": "https://api.souavzy.vip/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 23
+    },
+    {
+        "id": "laoseb",
+        "name": "老色逼",
+        "baseUrl": "https://apilsbzy1.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 24
+    },
+    {
+        "id": "thzr",
+        "name": "桃花资源",
+        "baseUrl": "https://thzy1.me/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 25
+    },
+    {
+        "id": "dnz",
+        "name": "大奶子",
+        "baseUrl": "https://apidanaizi.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 26
+    },
+    {
+        "id": "xbzr",
+        "name": "杏吧资源",
+        "baseUrl": "https://xingba111.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 27
+    },
+    {
+        "id": "njzr",
+        "name": "辣椒资源",
+        "baseUrl": "https://apilj.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 28
+    },
+    {
+        "id": "ddzr",
+        "name": "豆豆资源",
+        "baseUrl": "https://api.douapi.cc/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 29
+    },
+    {
+        "id": "ddczr",
+        "name": "滴滴资源",
+        "baseUrl": "https://api.ddapi.cc/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 30
+    },
+    {
         "id": "xibao",
         "name": "细胞采集",
         "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
-        "priority": 22
+        "priority": 31
     }
 ]
