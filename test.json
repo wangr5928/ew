@@ -480,6 +480,70 @@
         "priority": 61
     },
     {
+        "id": "kaituo",
+        "name": "开拓资源",
+        "baseUrl": "https://ktzy.cc/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 62
+    },
+    {
+        "id": "damao",
+        "name": "大猫资源",
+        "baseUrl": "https://damaozy.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 63
+    },
+    {
+        "id": "huohu",
+        "name": "火狐资源",
+        "baseUrl": "https://hhzyapi.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 64
+    },
+    {
+        "id": "tenxin",
+        "name": "腾讯云资源",
+        "baseUrl": "https://api.tiankongapi.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 65
+    },
+    {
+        "id": "ali",
+        "name": "阿里直链源",
+        "baseUrl": "https://alizl.me/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 66
+    },
+    {
+        "id": "yihaoxiian",
+        "name": "一号线资源",
+        "baseUrl": "https://api.1line.me/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 67
+    },
+    {
+        "id": "4Kgaoqi",
+        "name": "4K高清源",
+        "baseUrl": "https://api.4kzy.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 68
+    },
+    {
+        "id": "gaoqizi",
+        "name": "高清直链资源",
+        "baseUrl": "https://gaoqinger.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 69
+    },
+    {
         "id": "leba",
         "name": "乐播资源",
         "baseUrl": "https://lbapi9.com/api.php/provide/vod",
@@ -728,11 +792,59 @@
         "priority": 30
     },
     {
+        "id": "xinba",
+        "name": "杏吧资源",
+        "baseUrl": "https://xingba111.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 31
+    },
+    {
+        "id": "xianjiao",
+        "name": "香蕉资源",
+        "baseUrl": "https://xjzyapi.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 32
+    },
+    {
+        "id": "sigua",
+        "name": "丝瓜资源",
+        "baseUrl": "https://sgzyapi.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 33
+    },
+    {
+        "id": "99",
+        "name": "九九资源",
+        "baseUrl": "https://99zyapi.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 34
+    },
+    {
+        "id": "caomei",
+        "name": "草莓资源",
+        "baseUrl": "https://cmzyapi.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 35
+    },
+    {
+        "id": "hongduo",
+        "name": "红豆资源",
+        "baseUrl": "https://hdzyapi.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 36
+    },
+    {
         "id": "xibao",
         "name": "细胞采集",
         "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
-        "priority": 31
+        "priority": 37
     }
 ]
